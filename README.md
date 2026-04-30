@@ -1,10 +1,7 @@
-# Bulgaria Regulatory Documents
+# Bulgaria Gambling Regulations
 
-Markdown versions of regulatory documents for Bulgaria, extracted from the DBNSA Regulatory Repository.
+Markdown versions of gambling regulations and regulatory guidelines for Bulgaria, converted for easy reference and version tracking.
 
-## Source
+## Documents
 
-Documents sourced from the [DBNSA SharePoint Regulatory Repository](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Bulgaria).
-
----
-*Last updated: 2026-04-30 — maintained by the DBNSA Compliance team.*
+*Document index will be updated once files are processed.*
